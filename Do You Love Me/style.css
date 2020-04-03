@@ -1,0 +1,19 @@
+#left {
+    padding-left: 150px;
+}
+
+h1 {
+    padding-left: 70px;
+    color: fuchsia;
+}
+
+input {
+    color: red;
+    background: aqua;
+    width: 46px;
+    height: 36px;
+}
+
+h2 {
+    color: red;
+}
